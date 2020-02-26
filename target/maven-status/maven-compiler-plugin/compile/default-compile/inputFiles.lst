@@ -1,0 +1,10 @@
+/home/yuvaraj/Documents/dev/comments-service/src/main/java/com/comment/service/demo/config/SwaggerConfig.java
+/home/yuvaraj/Documents/dev/comments-service/src/main/java/com/comment/service/demo/exceptionhandler/RecordNotFoundException.java
+/home/yuvaraj/Documents/dev/comments-service/src/main/java/com/comment/service/demo/repository/CommentsRepository.java
+/home/yuvaraj/Documents/dev/comments-service/src/main/java/com/comment/service/demo/service/impl/CommentsServiceImpl.java
+/home/yuvaraj/Documents/dev/comments-service/src/main/java/com/comment/service/demo/CommentServiceApplication.java
+/home/yuvaraj/Documents/dev/comments-service/src/main/java/com/comment/service/demo/config/RepositoryConfig.java
+/home/yuvaraj/Documents/dev/comments-service/src/main/java/com/comment/service/demo/controller/CommentsController.java
+/home/yuvaraj/Documents/dev/comments-service/src/main/java/com/comment/service/demo/entity/CommentsEntity.java
+/home/yuvaraj/Documents/dev/comments-service/src/main/java/com/comment/service/demo/service/CommentsService.java
+/home/yuvaraj/Documents/dev/comments-service/src/main/java/com/comment/service/demo/exceptionhandler/ExceptionsHandler.java

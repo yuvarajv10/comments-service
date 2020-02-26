@@ -1,0 +1,19 @@
+server:
+  port: 9002
+  
+spring:
+  application:
+    name: user-comments-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/masterdb
+    username: devuser
+    password: Dev@123456
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+        
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8001/eureka/

@@ -9,10 +9,10 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.user.service</groupId>
-	<artifactId>user-service</artifactId>
+	<groupId>com.comment.service</groupId>
+	<artifactId>comment-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>user-service</name>
+	<name>comment-service</name>
 	<description>OAuth SpringBoot </description>
 
 	<properties>
